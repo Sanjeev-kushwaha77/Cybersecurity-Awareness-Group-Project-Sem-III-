@@ -131,3 +131,14 @@ This project aimed to bridge that gap by combining awareness sessions, real surv
 ⭐ Developed as a College Group Project  
 ⭐ Role: Co-Leader  
 ⭐ AI used only as a coding assistant
+---
+
+## 📄 Full Report
+You can view the complete detailed report here:
+
+[Download Report](FIELD%20PROJECT%20REPORT-%20GROUP.pdf)
+
+## 📊 Project Presentation
+You can view the project presentation here:
+
+[View Presentation](FIELD%20PROJECT%20PPT.pdf)
